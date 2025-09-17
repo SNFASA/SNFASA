@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snfasa&show_icons=true&locale=en" alt="snfasa" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=SNFASA" alt="snfasa" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=snfasa" alt="snfasa" /></p>
