@@ -34,4 +34,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snfasa&show_icons=true&locale=en" alt="snfasa" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=snfasa&theme=transparent)](https://git.io/streak-stats)
+
+[!(https://streak-stats.demolab.com/?user=SNFASA)]
