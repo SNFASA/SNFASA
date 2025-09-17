@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/onlyyou_14344" target="blank"><img src="https://img.shields.io/twitter/follow/onlyyou_14344?logo=twitter&style=for-the-badge" alt="onlyyou_14344" /></a> </p>
 
-- 🔭 I’m currently working on [Hikmah-and-Ekplorasi-Room-Reservation-System](https://github.com/SNFASA/Hikmah-and-Ekplorasi-Room-Reservation-System)
+- 🔭 I'm currently working on [Hikmah-and-Ekplorasi-Room-Reservation-System](https://github.com/SNFASA/Hikmah-and-Ekplorasi-Room-Reservation-System)
 
-- 🌱 I’m currently learning **Flutter and Dart**
+- 🌱 I'm currently learning **Flutter and Dart**
 
 - 👨‍💻 All of my projects are available at [https://sydnbl.netlify.app/](https://sydnbl.netlify.app/)
 
@@ -34,5 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snfasa&show_icons=true&locale=en" alt="snfasa" /></p>
 
-
-[!(https://streak-stats.demolab.com/?user=SNFASA)]
+<p><img align="center" src="https://streak-stats.demolab.com/?user=SNFASA" alt="snfasa" /></p>
