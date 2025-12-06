@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/onlyyou_14344" target="blank"><img src="https://img.shields.io/twitter/follow/onlyyou_14344?logo=twitter&style=for-the-badge" alt="onlyyou_14344" /></a> </p>
 
-- 🔭 I'm currently working on [Hikmah-and-Ekplorasi-Room-Reservation-System](https://github.com/SNFASA/Hikmah-and-Ekplorasi-Room-Reservation-System)
+- 🔭 I'm currently working on [AI FIRE MONITORING SYSTEM](https://github.com/SNFASA/AI-Fire-Monitoring-System.git)
 
 - 🌱 I'm currently learning **Flutter and Dart**
 
