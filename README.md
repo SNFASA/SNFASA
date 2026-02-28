@@ -1,37 +1,67 @@
-<h1 align="center">Hi 👋, I'm Syed Nabil</h1>
-<h3 align="center">Welcome to SydNbl ! We are delighted to have you here, exploring a world of development with us. Feel free to navigate through our pages, discover exciting content. Thank you for choosing SydNbl. where Don't only practise your art,but force your way into its secrets awaits you.</h3>
+# Hello 👋, I'm SYED NABIL
+### Software Engineering
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=snfasa&label=Profile%20views&color=0e75b6&style=flat" alt="snfasa" /> </p>
+Welcome to SydNbl ! We are delighted to have you here, exploring a world of development with us. Feel free to navigate through our pages, discover exciting content. Thank you for choosing SydNbl. where Don't only practise your art,but force your way into its secrets awaits you.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=snfasa" alt="snfasa" /></a> </p>
+## Contact Me
+<p><a href="www.linkedin.com/in/syed-nabil-b266341bb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://sydnbl.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> </p>
 
-<p align="left"> <a href="https://twitter.com/onlyyou_14344" target="blank"><img src="https://img.shields.io/twitter/follow/onlyyou_14344?logo=twitter&style=for-the-badge" alt="onlyyou_14344" /></a> </p>
+## Skills
 
-- 🔭 I'm currently working on [AI FIRE MONITORING SYSTEM](https://github.com/SNFASA/AI-Fire-Monitoring-System.git)
-
-- 🌱 I'm currently learning **Flutter and Dart**
-
-- 👨‍💻 All of my projects are available at [https://sydnbl.netlify.app/](https://sydnbl.netlify.app/)
-
-- 💬 Ask me about **Laravel, PHP and Java**
-
-- 📫 How to reach me **syednabil.0413@gmail.com**
-
-- ⚡ Fun fact **I think I'm handsome**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/onlyyou_14344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="onlyyou_14344" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/syed nabil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed nabil" height="30" width="40" /></a>
-<a href="https://fb.com/nabil syed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nabil syed" height="30" width="40" /></a>
-<a href="https://instagram.com/nbl_syd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nbl_syd" height="30" width="40" /></a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## Projects
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snfasa&show_icons=true&locale=en&layout=compact" alt="snfasa" /></p>
+### PTTA UTHM Reservation System
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snfasa&show_icons=true&locale=en" alt="snfasa" /></p>
+The Room & Equipment Reservation System is designed to streamline room reservations, equipment bookings, maintenance scheduling, and feedback management.
+It is tailored for academic institutions and organizations to manage resources efficiently.
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=snfasa" alt="snfasa" /></p>
+[View Project](https://github.com/SNFASA/Hikmah-and-Ekplorasi-Room-Reservation-System.git)
+
+---
+
+### Ecoscan
+
+EcoScan is a mobile application that helps users correctly dispose of waste by using AI-powered image recognition.
+Users simply take a photo of an item, and EcoScan tells them which bin to use, while rewarding eco-friendly behavior through points and leaderboards.
+
+[View Project](https://github.com/SNFASA/EcoScan.git)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=SNFASA&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNFASA&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SNFASA&theme=null" alt="GitHub Streak" />
+
+<img src="https://profile-counter.glitch.me/SNFASA/count.svg?" alt="visitors count" />
+
+## Support Me
+
+<a href="https://www.buymeacoffee.com/SNFASA"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
+
+## GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=SNFASA" alt="trophy" />
+
+## GitHub Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SNFASA&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+
