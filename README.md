@@ -45,11 +45,11 @@ Users simply take a photo of an item, and EcoScan tells them which bin to use, w
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=SNFASA&show_icons=true&count_private=true&theme=null" alt="GitHub İstatistikleri" />
+[![GitHub Stats](https://helio-github-stats.vercel.app/api?username=SNFASA&custom_title=GitHub+Stats&theme=shadow_blue&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=percentile&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short)](https://nice-readme.vercel.app/github-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SNFASA&layout=compact&theme=null" alt="En Çok Kullanılan Diller" />
+[![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=SNFASA&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SNFASA&theme=null" alt="GitHub Streak" />
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=SNFASA&theme=transparent&hide_border=true&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&starting_year=2021)](https://nice-readme.vercel.app/streak-stats)
 
 <img src="https://profile-counter.glitch.me/SNFASA/count.svg?" alt="visitors count" />
 
@@ -59,9 +59,8 @@ Users simply take a photo of an item, and EcoScan tells them which bin to use, w
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=SNFASA" alt="trophy" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=SNFASA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SNFASA&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
-
