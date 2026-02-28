@@ -10,7 +10,7 @@ Welcome to SydNbl ! We are delighted to have you here, exploring a world of deve
 
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Framework/laravel.svg" width='40' height='40' title='laravel'/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
@@ -21,7 +21,10 @@ Welcome to SydNbl ! We are delighted to have you here, exploring a world of deve
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextjs" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>&nbsp;
-</p>
+<img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/aws.svg" width='40' height='40' title='aws'/>&nbsp;
+<img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/docker.svg" width='40' height='40' title='docker'/>&nbsp;
+<img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/Devops/gcp.svg" width='40' height='40' title='gcp'/></p>&nbsp;
+<img src="https://raw.githubusercontent.com/ryantusi/Github_Profile_README_Generator/main/src/images/icons/BackendDevelopment/nodejs.svg" width='40' height='40' title='nodejs'/>&nbsp;
 
 ## Projects
 
@@ -49,17 +52,7 @@ Users simply take a photo of an item, and EcoScan tells them which bin to use, w
 
 [![Top Languages](https://helio-github-stats.vercel.app/api/top-langs?username=SNFASA&layout=normal&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Top+Languages)](https://nice-readme.vercel.app/top-langs)
 
-[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=SNFASA&theme=transparent&hide_border=true&border_radius=4.5&locale=pt_BR&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&starting_year=2021)](https://nice-readme.vercel.app/streak-stats)
-
-<img src="https://profile-counter.glitch.me/SNFASA/count.svg?" alt="visitors count" />
-
-## Support Me
-
-<a href="https://www.buymeacoffee.com/SNFASA"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" /></a>
-
-## GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SNFASA&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://github-streak-stats-ruby.vercel.app/?user=SNFASA&theme=transparent&hide_border=true&border_radius=4.5&locale=en&short_numbers=false&mode=daily&disable_animations=false&card_width=466&card_height=194&hide_total_contributions=false&hide_current_streak=false&hide_longest_streak=false&starting_year=2021)](https://nice-readme.vercel.app/streak-stats)
 
 ## GitHub Activity Graph
 
